@@ -1,0 +1,9 @@
+flutter create kayan_app
+  cd kayan_app
+code .cd kayan_app
+code .dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  http: ^1.2.0flutter pub getflutter runflutter build apk --release
+    
